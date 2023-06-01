@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+  }
+
+.cupid{
+    background: linear-gradient(to left top, rgb(172, 28, 216), rgb(187, 155, 15), rgb(31, 168, 27));
+    border: 1px solid #000;
+    display: inline-block;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px ;
+    padding-top: 30px;
+    border: 1px solid #000;
+}
+.music{
+}
+.card_img {
+    width: 295px;
+    height: 200px;
+}
+.cupid_name {
+    margin: 20px 0;
+    color: rgb(12, 178, 12);
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.card-1_music {
+}
+.dress {
+    background: linear-gradient(to left, rgb(14, 173, 246), purple);
+    width: 350px;
+    height: 350px;
+    padding-top: 70px;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: inline-block;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+.card-2_img {
+    width: 200px;
+    height: 150px;
+}
+.dress_name {
+    margin: 20px 0;
+    color: rgb(79, 194, 22);
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
